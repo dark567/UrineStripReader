@@ -212,7 +212,7 @@ namespace ConsoleAppServer
         /// </summary>
         /// <param name="model"></param>
         /// <returns></returns>
-        private static QueryModel QueryGetG(Model model)
+        private static QueryModel QueryGetG(Model model) 
         {
             QueryModel query = null;
 
